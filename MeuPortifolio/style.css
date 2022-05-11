@@ -1,17 +1,25 @@
 .header {
   font-family: 'Montserrat', sans-serif;
+
 }
 
 .description {
   font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 10px;
+  position: absolute;
+  top: 50px;
+  left: 250px;
 
 }
 
 .background {
   background-color: seagreen;
+  padding: 20px;
 }
 
-.name {}
+#name {
+  text-align: center;
+}
 
 .vinipicture {}
 
@@ -20,10 +28,24 @@
   font-size: 20px;
 }
 
-.array1 {
+.arrayability :nth-child(odd) {
   font-size: 15px;
+  background-color: aqua;
+
 }
 
 .array2 {
   font-size: 15px;
+}
+
+#minhafoto {
+  float: left;
+  height: 180px;
+  padding: 10px;
+  background-color: violet;
+}
+
+.imagecontainer {
+  height: 200px;
+  position: relative;
 }
