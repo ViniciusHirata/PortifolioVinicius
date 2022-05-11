@@ -1,0 +1,29 @@
+.header {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.description {
+  font-family: 'IBM Plex Sans', sans-serif;
+
+}
+
+.background {
+  background-color: seagreen;
+}
+
+.name {}
+
+.vinipicture {}
+
+.arraytitle,
+.linkstyles {
+  font-size: 20px;
+}
+
+.array1 {
+  font-size: 15px;
+}
+
+.array2 {
+  font-size: 15px;
+}
