@@ -13,7 +13,7 @@
 }
 
 .background {
-  background-color: seagreen;
+  background-color: rgb(241, 238, 233);
   padding: 20px;
 }
 
@@ -30,7 +30,7 @@
 
 .arrayability :nth-child(odd) {
   font-size: 15px;
-  background-color: aqua;
+  background-color: rgb(236, 153, 75);
 
 }
 
@@ -42,7 +42,7 @@
   float: left;
   height: 180px;
   padding: 10px;
-  background-color: violet;
+  background-color: rgb(21, 19, 60);
 }
 
 .imagecontainer {
